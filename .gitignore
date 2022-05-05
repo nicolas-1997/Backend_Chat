@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -108,4 +107,4 @@ dist
 =======
 .env
 node_modules/*
->>>>>>> e4e6fbde57749ed16df22d77071a7e1dca03f59e
+
