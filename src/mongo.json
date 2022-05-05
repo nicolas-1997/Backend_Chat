@@ -1,0 +1,6 @@
+{
+    "client":"db_user_chat",
+    "password": "GhekpwZfhTyLTStx",
+    "table": "chat_nodejs_dv",
+    "cluster":"cluster0.1cvct.mongodb.net"
+}
